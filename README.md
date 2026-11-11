@@ -1,2 +1,2 @@
-contadorManual es una aplicacion .NET MAUI que cuenta cualquier cosa.
+shop list es una aplicacion que sirve para administrar los productos mediante una lista
 
